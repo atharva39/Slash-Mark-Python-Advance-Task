@@ -1,6 +1,8 @@
 # Real-time Auto License Plate Recognition with Jetson Nano
 
-This project demonstrates a real-time object detection application using NVIDIA Jetson Nano. The application leverages a pre-trained deep neural network (DNN) model to recognize and locate objects in a live camera stream. The code is written in Python and utilizes NVIDIA's Jetson Inference library for accelerated inference on the Jetson platform.
+This project is part of the advanced tasks for the Slash Mark Python internship, showcasing the integration of AI with edge computing for high-performance real-time applications.
+
+It demonstrates a real-time object detection application using NVIDIA Jetson Nano. The application leverages a pre-trained deep neural network (DNN) model to recognize and locate objects in a live camera stream. The code is written in Python and utilizes NVIDIA's Jetson Inference library for accelerated inference on the Jetson platform.
 
 ## Features
 - Real-time object detection using NVIDIA's Jetson Nano.
